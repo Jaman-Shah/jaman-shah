@@ -29,6 +29,7 @@
       <br>NodeJs
     </td>
     <td align="center" width="96" bg-color="gray">
+    <td align="center" width="96">
       <img src="./images/express.png" width="48" height="48" alt="Express">
       <br>Express
     </td>
@@ -37,6 +38,7 @@
       <br>TailWindCSS
     </td>
     <td align="center" width="96" >
+    <td align="center" width="96">
       <img src="./images/firebase.png" width="48" height="48" alt="Firebase Auth">
       <br>Firebase Auth 
     </td>
