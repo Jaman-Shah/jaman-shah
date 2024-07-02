@@ -28,7 +28,6 @@
       <img src="./images/node.png" width="48" height="48" alt="NodeJs">
       <br>NodeJs
     </td>
-    <td align="center" width="96" bg-color="gray">
     <td align="center" width="96">
       <img src="./images/express.png" width="48" height="48" alt="Express">
       <br>Express
