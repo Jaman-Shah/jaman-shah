@@ -28,8 +28,10 @@
       <img src="./images/node.png" width="48" height="48" alt="NodeJs">
       <br>NodeJs
     </td>
-    <td align="center" width="96">
-      <img src="./images/express.png" width="48" height="48" alt="Express">
+   <td align="center" width="96">
+      <div style="background-color: white; padding: 10px; border-radius: 5px;">
+        <img src="./images/express.png" width="48" height="48" alt="Express">
+      </div>
       <br>Express
     </td>
     <td align="center" width="96">
