@@ -4,7 +4,9 @@
 
 ## 👋 Hi, I'm Jaman Shah!
 
-🌟Junior MERN Stack Web Developer. I am passionate about creating dynamic, responsive and eye catching animated web application using MongoDB, Express.js, React, and Node.js
+🌟I am a Junior MERN Stack Web Developer with a strong passion for creating dynamic, responsive, and visually stunning web applications. My expertise lies in utilizing MongoDB, Express.js, React, and Node.js to build seamless, high-performance applications.
+
+I am dedicated to crafting interactive user experiences and incorporating eye-catching animations to enhance user engagement and satisfaction. My goal is to continuously improve my skills and contribute to innovative projects that make a meaningful impact.
 
 🚀 I am currently exploring React Native and new technologies
 
