@@ -36,7 +36,6 @@
       <img src="./images/tailwind.png" width="48" height="48" alt="TailWind">
       <br>TailWindCSS
     </td>
-    <td align="center" width="96" >
     <td align="center" width="96">
       <img src="./images/firebase.png" width="48" height="48" alt="Firebase Auth">
       <br>Firebase Auth 
