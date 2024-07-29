@@ -1,4 +1,4 @@
-<img src="./images/banner.png" />
+<img src="https://raw.githubusercontent.com/jaman-shah/Jaman-Shah/main/images/banner.png" alt="Banner" />
 
 ## ABOUT ME
 
@@ -10,7 +10,9 @@ I am dedicated to crafting interactive user experiences and incorporating eye-ca
 
 🚀 I am currently exploring React Native Next Js and new technologies
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/jamanshah5400)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamanshah)[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamanshah5400@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/jamanshah5400)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamanshah)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamanshah5400@gmail.com)
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -23,23 +25,23 @@ I am dedicated to crafting interactive user experiences and incorporating eye-ca
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="./images/react.png" width="48" height="48" alt="React">
+      <img src="https://raw.githubusercontent.com/jaman-shah/Jaman-Shah/main/images/react.png" width="48" height="48" alt="React">
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="./images/node.png" width="48" height="48" alt="NodeJs">
+      <img src="https://raw.githubusercontent.com/jaman-shah/Jaman-Shah/main/images/node.png" width="48" height="48" alt="NodeJs">
       <br>NodeJs
     </td>
     <td align="center" width="96">
-      <img src="./images/express.png" width="48" height="48" alt="Express">
+      <img src="https://raw.githubusercontent.com/jaman-shah/Jaman-Shah/main/images/express.png" width="48" height="48" alt="Express">
       <br>Express
     </td>
     <td align="center" width="96">
-      <img src="./images/tailwind.png" width="48" height="48" alt="TailWind">
+      <img src="https://raw.githubusercontent.com/jaman-shah/Jaman-Shah/main/images/tailwind.png" width="48" height="48" alt="TailWind">
       <br>TailWindCSS
     </td>
     <td align="center" width="96">
-      <img src="./images/firebase.png" width="48" height="48" alt="Firebase Auth">
+      <img src="https://raw.githubusercontent.com/jaman-shah/Jaman-Shah/main/images/firebase.png" width="48" height="48" alt="Firebase Auth">
       <br>Firebase Auth 
     </td>
   </tr>
